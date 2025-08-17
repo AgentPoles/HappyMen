@@ -1,4 +1,4 @@
-# Jupiter Exchange Clone
+# HAPPY MEN INTERFACE
 
 *Automatically synced with your [v0.app](https://v0.app) deployments*
 
